@@ -1,0 +1,2 @@
+trich_ten_data.py
+SVM2.py
